@@ -11,7 +11,7 @@ O objetivo deste projeto é facilitar o acompanhamento das finanças familiares 
 O dashboard apresenta:
 
 - 💰 Total de receitas
-- 🧾 Total de despesas
+- 🧾 Total de despesas.
 - 💵 Saldo do mês atual
 - 📊 Variação percentual
 - 🍩 Despesas por condição
