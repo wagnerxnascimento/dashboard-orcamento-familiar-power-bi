@@ -47,6 +47,8 @@ Abaixo está uma visão geral do dashboard desenvolvido no Power BI.
 
 ![Dashboard de Análise de Orçamento Familiar](orçamento.png)
 
+> **Observação:** este repositório apresenta exclusivamente uma demonstração visual do projeto. O arquivo-fonte e a base de dados não são disponibilizados por conterem estrutura e informações de uso privado.
+
 ## 🚀 Próximas melhorias
 
 - Aprimorar os indicadores financeiros
