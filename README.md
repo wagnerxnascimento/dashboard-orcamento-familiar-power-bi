@@ -45,7 +45,7 @@ O projeto contribuiu para meu desenvolvimento em **Business Intelligence e Anál
 
 Abaixo está uma visão geral do dashboard desenvolvido no Power BI.
 
-> A imagem do dashboard será adicionada ao repositório.
+![Dashboard de Análise de Orçamento Familiar](orçamento.png)
 
 ## 🚀 Próximas melhorias
 
